@@ -14,13 +14,17 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.alam3434.schoota"
+      "bundleIdentifier": "com.alam3434.schoota",
+      "config": {
+        "googleMapsApiey": "AIzaSyCrKZjMkAS1BbFKXwIAKFd4XPkgB8QePos"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.alam3434.schoota"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +41,7 @@
       "eas": {
         "projectId": "670a12b8-093e-47ad-9e70-065ade052ac2"
       }
-    }
+    },
+    "owner": "schoota"
   }
 }
