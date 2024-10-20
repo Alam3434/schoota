@@ -14,10 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.alam3434.schoota",
-      "config": {
-        "googleMapsApiey": "AIzaSyCrKZjMkAS1BbFKXwIAKFd4XPkgB8QePos"
-      }
+      "bundleIdentifier": "com.alam3434.schoota"
     },
     "android": {
       "adaptiveIcon": {
